@@ -41,9 +41,13 @@
           Araştırma
         </a>
         <div class="dropdown-menu dropdown-content" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="#">Araştırma Merkezleri</a>
-          <a class="dropdown-item" href="#">Araştırma ve Projeler</a>
-          <a class="dropdown-item" href="#">Bilgi Kaynakları</a>
+          <!--<NuxtLink to="/products" class="text-gray-900 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">Products</NuxtLink> -->
+          <NuxtLink to="/arastirma-merkezleri" class="dropdown-item">Araştırma Merkezleri</NuxtLink>
+          <!--<a class="dropdown-item" href="#">Araştırma Merkezleri</a> -->
+          <NuxtLink to="/arastirma-ve-projeler" class="dropdown-item">Araştırma ve Projeler</NuxtLink>
+          <!--<a class="dropdown-item" href="#">Araştırma ve Projeler</a> -->
+          <NuxtLink to="/bilgi-kaynaklari" class="dropdown-item">Bilgi Kaynakları</NuxtLink>
+          <!--<a class="dropdown-item" href="#">Bilgi Kaynakları</a> -->
           
         </div>
       </li>

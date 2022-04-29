@@ -1,7 +1,7 @@
 <template>
   <div>
     <Navbar />
-    <Slide />
+    <Slide /> 
     <News v-for="cardInfo in newsInfo"
      :key="cardInfo.id" 
      :cardsSection="cardInfo"/> 
