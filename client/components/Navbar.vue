@@ -37,13 +37,18 @@
         </div>
       </li>
        <li class="nav-item active dropdown">
-        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        <!--<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           Araştırma
-        </a>
+        </a> -->
+        <NuxtLink to="/arastirmalar" class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Araştırma</NuxtLink>
         <div class="dropdown-menu dropdown-content" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="#">Araştırma Merkezleri</a>
-          <a class="dropdown-item" href="#">Araştırma ve Projeler</a>
-          <a class="dropdown-item" href="#">Bilgi Kaynakları</a>
+          <!--<NuxtLink to="/products" class="text-gray-900 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">Products</NuxtLink> -->
+          <NuxtLink to="/arastirma-merkezleri" class="dropdown-item">Araştırma Merkezleri</NuxtLink>
+          <!--<a class="dropdown-item" href="#">Araştırma Merkezleri</a> -->
+          <NuxtLink to="/arastirma-ve-projeler" class="dropdown-item">Araştırma ve Projeler</NuxtLink>
+          <!--<a class="dropdown-item" href="#">Araştırma ve Projeler</a> -->
+          <NuxtLink to="/bilgi-kaynaklari" class="dropdown-item">Bilgi Kaynakları</NuxtLink>
+          <!--<a class="dropdown-item" href="#">Bilgi Kaynakları</a> -->
           
         </div>
       </li>

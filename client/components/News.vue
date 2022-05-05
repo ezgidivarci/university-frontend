@@ -1,9 +1,17 @@
 <template>
     <div>
-        <section id="features" class="section-area">
+
+      <div class="card grid gap-4 grid-cols-4 grid-rows-3" style="width: 20rem;">
+  <img class="card-img-top" :src="cardsSection.image" alt="Card image cap">
+  <div class="card-body">
+    <h5 class="card-title">{{cardsSection.header}}</h5>
+    <p class="card-text">{{cardsSection.productDescription}} on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+        <!--<section id="features" class="section-area">
         <div class="features-top">
-            <h2 class="section-header">FEATURED SERVICE</h2>
-            <p>Vintage Cars Blog is a hub of classic car knowledge, featuring reviews.</p>
+           
 
         </div>
         
@@ -12,8 +20,9 @@
                 <div class="col3">
                     <div class="item">
                         <div class="zoom">
-                            <!--<img :src="require(`@/img/${card.image$|||`)"> -->
-                        </div>
+                            <img :src="cardsSection.image">
+                            <!--<img :src="require(`@/img/${card.image$|||`)"> buradan geliyor sayfaya -->
+                        <!--</div>
                         <div class="item-text">
                              <h1>{{cardsSection.header}}</h1>
                             <p> {{cardsSection.productDescription}}
@@ -28,12 +37,12 @@
                  </div>
             </div>
         </div>
-    </section>
+    </section> -->
        
 
-        <div><NewsCard v-for="card in cardsSection.cards"
+       <!-- <div><NewsCard v-for="card in cardsSection.cards"
         :key="card.id"
-        :card="card" /> </div>
+        :card="card" /> </div> -->
 
     </div>
     
@@ -49,5 +58,62 @@ export default {
 </script>
 
 <style scoped>
+
+
+.item {
+  padding: 10px 20px;
+}
+
+.zoom {
+  position: relative;
+  overflow: hidden;
+  display: inline-block;
+  width: 100%;
+  vertical-align: top;
+}
+
+.zoom img {
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: all 0.5s ease;
+}
+
+.item-text {
+  text-align: center;
+  padding: 5px;
+  border: 2px solid #500d16;
+}
+
+.item:hover .zoom img {
+  transform: scale(1.2);
+}
+
+.item:hover h3 {
+  color: white;
+}
+
+.item:hover .item-text {
+  background-color: #840909;
+  color: white;
+  transition: all 0.5s ease;
+}
+.btn-details {
+  color: #840909;
+  margin-bottom: 30px;
+  padding: 5px 10px;
+  text-decoration: none;
+  border: 1px solid #840909;
+  transition: all 0.5s ease;
+}
+.item:hover .btn-details {
+  color: white;
+  border: 1px solid white;
+}
+
+.item-text p {
+  line-height: 1.3;
+  margin: 20px 7px;
+}
 
 </style>

@@ -2,8 +2,7 @@
     <div>
     <section id="features" class="section-area">
         <div class="features-top">
-            <h2 class="section-header">FEATURED SERVICE</h2>
-            <p>Vintage Cars Blog is a hub of classic car knowledge, featuring reviews.</p>
+           
 
         </div>
         
