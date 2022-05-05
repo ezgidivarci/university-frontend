@@ -1,6 +1,7 @@
 <template>
 <div>
     
+<<<<<<< HEAD
     <div class="mb-5"><Navbar /></div>
     
      <section id="cars-slider" class="slider mb-5">
@@ -9,10 +10,19 @@
             <p class="alt-baslik">Bilimsel araştırma projelerinin kabulü, değerlendirilmesi, desteklenmesi,
 izlenmesi
 amacıyla oluşturulan komisyon</p>
+=======
+    <Navbar />
+    projeler
+     <section id="cars-slider" class="slider">
+        <div id="cars-caption" class="caption">
+            <h1>Araştırma ve Projeler</h1>
+            <p>just enjoy the ride classic car tour</p>
+>>>>>>> f157de25b0ef9fcc24b83de10e671cbb394e3dc1
 
         </div>
      </section>
 
+<<<<<<< HEAD
      <div class="row pt-5">
         <div class="col-lg-8 mx-auto">
             <!-- List group-->
@@ -69,6 +79,8 @@ amacıyla oluşturulan komisyon</p>
         </div>
     </div>
 
+=======
+>>>>>>> f157de25b0ef9fcc24b83de10e671cbb394e3dc1
 </div>
     
 </template>
@@ -88,7 +100,11 @@ amacıyla oluşturulan komisyon</p>
 
 #cars-caption {
   height: 250px;
+<<<<<<< HEAD
   background: rgba(0, 0, 0, 0.6);
+=======
+  background: rgba(0, 0, 0, 0.7);
+>>>>>>> f157de25b0ef9fcc24b83de10e671cbb394e3dc1
 }
 h1 {
     padding-top: 50px;
@@ -98,6 +114,7 @@ h1 {
 }
 p {
     color: white;
+<<<<<<< HEAD
     text-align: left;
     padding-left: 10px;
 }
@@ -125,3 +142,8 @@ img {
   text-align: center;
 }
 </style>
+=======
+    text-align: center;
+}
+</style>
+>>>>>>> f157de25b0ef9fcc24b83de10e671cbb394e3dc1

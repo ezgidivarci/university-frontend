@@ -1,12 +1,17 @@
 <template>
 <div>
     
+<<<<<<< HEAD
      <div class="pb-5"><Navbar /></div>
     
+=======
+    <Navbar />
+>>>>>>> f157de25b0ef9fcc24b83de10e671cbb394e3dc1
     
      <section id="cars-slider" class="slider">
         <div id="cars-caption" class="caption">
             <h1>Bilgi Kaynakları</h1>
+<<<<<<< HEAD
             <p>Uygulama ve Araştırma Merkezlerimiz spesifik konularda araştırmalar yapmak ve bilimsel etkinlikler gerçekleştirmektir:</p>
 
         </div>
@@ -71,6 +76,12 @@ açabilirsiniz. Kayıt işlemini VETİS sizin için otomatik olarak yapar.</p>
             </ul> <!-- End -->
         </div>
     </div>
+=======
+            <p>just enjoy the ride classic car tour</p>
+
+        </div>
+     </section>
+>>>>>>> f157de25b0ef9fcc24b83de10e671cbb394e3dc1
 
 </div>
     
@@ -82,16 +93,27 @@ açabilirsiniz. Kayıt işlemini VETİS sizin için otomatik olarak yapar.</p>
     }
 </script>
 
+<<<<<<< HEAD
 <style scoped>
 #cars-slider {
   height: 250px;
   background: url("@/img/kaynak-2.jpg") center center no-repeat;
+=======
+<style>
+#cars-slider {
+  height: 250px;
+  background: url("@/img/kaynak.jpg") center center no-repeat;
+>>>>>>> f157de25b0ef9fcc24b83de10e671cbb394e3dc1
   background-size: cover;
 }
 
 #cars-caption {
   height: 250px;
+<<<<<<< HEAD
   background: rgba(0, 0, 0, 0.5);
+=======
+  background: rgba(0, 0, 0, 0.7);
+>>>>>>> f157de25b0ef9fcc24b83de10e671cbb394e3dc1
 }
 h1 {
     padding-top: 50px;
@@ -103,6 +125,7 @@ p {
     color: white;
     text-align: center;
 }
+<<<<<<< HEAD
 body {
     background: linear-gradient(to right, #c04848, #480048);
     min-height: 100vh
@@ -119,4 +142,6 @@ img {
 .list-group-item:hover {
     background: #cfecf7;
 }
+=======
+>>>>>>> f157de25b0ef9fcc24b83de10e671cbb394e3dc1
 </style>

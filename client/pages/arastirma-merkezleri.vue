@@ -20,6 +20,7 @@
                     <!-- Custom content-->
                     <div class="media align-items-lg-center flex-column flex-lg-row p-3">
                         <div class="media-body order-2 order-lg-1">
+<<<<<<< HEAD
                             <h5 class="mt-0 font-weight-bold mb-2 text-center">Çevre Sorunları Araştırma ve Uygulama Merkezi
 </h5>
                             <p class="font-italic text-muted mb-0 small">Çevre Sorunları Uygulama ve Araştırma Merkezi’nin amacı, çevre-canlı ilişkilerini etkileyen çevre sorunları ve bu sorunların çözüm yolları alanlarında çok disiplinli, bilimsel ve uygulamaya dönük araştırma ve çalışmalar yapmak; toplumun çevre sorunlarına olan farkındalığını artırmak ve çeşitli bilimsel bulguları ve önerileri ilgili makamlara ve kamuoyuna aktarmaktır.</p>
@@ -42,11 +43,23 @@
                     </div> <!-- End -->
                 </li> <!-- End -->
                 <!-- list group item -->
+=======
+                            <h5 class="mt-0 font-weight-bold mb-2">Çevre Sorunları Araştırma ve Uygulama Merkezi
+</h5>
+                            <p class="font-italic text-muted mb-0 small">Çevre Sorunları Uygulama ve Araştırma Merkezi’nin amacı, çevre-canlı ilişkilerini etkileyen çevre sorunları ve bu sorunların çözüm yolları alanlarında çok disiplinli, bilimsel ve uygulamaya dönük araştırma ve çalışmalar yapmak; toplumun çevre sorunlarına olan farkındalığını artırmak ve çeşitli bilimsel bulguları ve önerileri ilgili makamlara ve kamuoyuna aktarmaktır.</p>
+                            <div class="d-flex align-items-center justify-content-between mt-1">
+                                
+                            </div>
+                        </div><img src="https://i.imgur.com/KFojDGa.jpg" alt="Generic placeholder image" width="200" class="ml-lg-5 order-1 order-lg-2">
+                    </div> <!-- End -->
+                </li> <!-- End -->
+>>>>>>> f157de25b0ef9fcc24b83de10e671cbb394e3dc1
                 <!-- list group item-->
                 <li class="list-group-item">
                     <!-- Custom content-->
                     <div class="media align-items-lg-center flex-column flex-lg-row p-3">
                         <div class="media-body order-2 order-lg-1">
+<<<<<<< HEAD
                             <h5 class="mt-0 font-weight-bold mb-2 text-center">Nanoteknoloji ve Biyomalzeme Uygulama ve Araştırma Merkezi (NBUAM)</h5>
                             <p class="font-italic text-muted mb-0 small">Nanoteknoloji ve Biyomalzeme Uygulama ve Araştırma Merkezi (NBUAM), ülkemizin bilimde bir öncü olmasını sağlamak için çalışmalarını sürdürecek ve bireyler bu hedef doğrultusunda yenilikçi ve çağdaş bilimsel çalışmalar üretecektir.</p>
                             <p class=" text-muted mb-0 small">Bu merkez sayesinde nanoteknoloji alanında hem nanoteknoloji araştırmaları, projeler üretmek, hem de nanoteknoloji alanında nitelikli insan gücü yetiştirmek ve sektörümüzün ihtiyaç duyduğu katma değeri yüksek ürünler üretmek.
@@ -56,6 +69,14 @@ Ulusal bir araştırma merkezinin görevlerini yerine getirmek ve merkezin verim
                                 
                             </div>
                         </div>
+=======
+                            <h5 class="mt-0 font-weight-bold mb-2">Deney Hayvanları (DEHAMER)</h5>
+                            <p class="font-italic text-muted mb-0 small">64 GB ROM | 14.73 cm (5.8 inch) Super Retina HD Display 12MP + 12MP | 7MP Front Camera A12 Bionic Chip Processor</p>
+                            <div class="d-flex align-items-center justify-content-between mt-1">
+                                
+                            </div>
+                        </div><img src="https://i.imgur.com/KFojDGa.jpg" alt="Generic placeholder image" width="200" class="ml-lg-5 order-1 order-lg-2">
+>>>>>>> f157de25b0ef9fcc24b83de10e671cbb394e3dc1
                     </div> <!-- End -->
                 </li> <!-- End -->
                 <!-- list group item -->
@@ -63,6 +84,7 @@ Ulusal bir araştırma merkezinin görevlerini yerine getirmek ve merkezin verim
                     <!-- Custom content-->
                     <div class="media align-items-lg-center flex-column flex-lg-row p-3">
                         <div class="media-body order-2 order-lg-1">
+<<<<<<< HEAD
                             <h5 class="mt-0 font-weight-bold mb-2 text-center">Genetik ve Metabolik Hastalıklar Araştırma ve Uygulama Merkezi</h5>
                             <p class="font-italic text-muted mb-0 small">Amaçlarımız: Genetik ve Metabolik Hastalıklar konusunda güncel bilimsel gelişmeleri izleyerek, katkıda bulunacak temel ve klinik araştırmaları projelendirmek, yönetmek, veri toplamak ve sonuçlandırmak.     
 Merkezin konusu ve alt yapısı ile ilgili olarak diğer kuruluşlara hizmet vermek.   </p>
@@ -72,11 +94,20 @@ Toplumdaki genotipik (varyasyonlar, polimorfizmler, mutasyonlar vb.) ve fenotipi
                                 
                             </div>
                         </div>
+=======
+                            <h5 class="mt-0 font-weight-bold mb-2">Genetik ve Metabolik Hastalıklar Araştırma ve Uygulama Merkezi</h5>
+                            <p class="font-italic text-muted mb-0 small">64 GB ROM | 16.51 cm (6.5 inch) Super Retina HD Display 12MP + 12MP | 7MP Front Camera A12 Bionic Chip Processor</p>
+                            <div class="d-flex align-items-center justify-content-between mt-1">
+                                
+                            </div>
+                        </div><img src="https://i.imgur.com/KFojDGa.jpg" alt="Generic placeholder image" width="200" class="ml-lg-5 order-1 order-lg-2">
+>>>>>>> f157de25b0ef9fcc24b83de10e671cbb394e3dc1
                     </div> <!-- End -->
                 </li> <!-- End -->
                 <!-- list group item -->
                 <li class="list-group-item">
                     <!-- Custom content-->
+<<<<<<< HEAD
                     <div class="media align-items-lg-center flex-column flex-lg-row p-3 text-center">
                         <div class="media-body order-2 order-lg-1">
                             <h5 class="mt-0 font-weight-bold mb-2">Psikolojik Danışma ve Rehberlik Uygulama-Araştırma Merkezi (MARPAM)</h5>
@@ -87,6 +118,16 @@ Toplumdaki genotipik (varyasyonlar, polimorfizmler, mutasyonlar vb.) ve fenotipi
                                 
                             </div>
                         </div>
+=======
+                    <div class="media align-items-lg-center flex-column flex-lg-row p-3">
+                        <div class="media-body order-2 order-lg-1">
+                            <h5 class="mt-0 font-weight-bold mb-2">Psikolojik Danışma ve Rehberlik Uygulama-Araştırma Merkezi (MARPAM)</h5>
+                            <p class="font-italic text-muted mb-0 small">Rear Camera|48MP (Primary)+ 8MP (Tele-photo)+16MP (ultrawide)| Front Camera|16 MP POP-UP Camera|8GB RAM|Android pie</p>
+                            <div class="d-flex align-items-center justify-content-between mt-1">
+                                
+                            </div>
+                        </div><img src="https://i.imgur.com/6IUbEME.jpg" alt="Generic placeholder image" width="200" class="ml-lg-5 order-1 order-lg-2">
+>>>>>>> f157de25b0ef9fcc24b83de10e671cbb394e3dc1
                     </div> <!-- End -->
                 </li> <!-- End -->
             </ul> <!-- End -->
@@ -137,7 +178,10 @@ img {
     height: 170px;
     width: 140px
 }
+<<<<<<< HEAD
 .list-group-item:hover {
     background: #cfecf7;
 }
+=======
+>>>>>>> f157de25b0ef9fcc24b83de10e671cbb394e3dc1
 </style>
